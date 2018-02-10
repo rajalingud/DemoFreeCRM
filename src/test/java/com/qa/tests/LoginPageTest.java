@@ -8,6 +8,7 @@ public class LoginPageTest {
 	public void logintest()
 	{
 		System.out.println("This is login test");
+		System.out.println("This is util class");
 	}
 
 }
